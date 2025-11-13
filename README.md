@@ -13,8 +13,8 @@ Each line in the input file must follow this format:
 username;group1,group2,group3
 
 Example:
-light; sudo,dev,www-data
-siyoni; sudo
+venkatesh; sudo,dev,www-data
+kilaru; sudo
 manoj; dev,www-data
 
 Rules:
