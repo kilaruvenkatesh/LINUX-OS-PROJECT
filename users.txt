@@ -1,0 +1,3 @@
+light; sudo, dev, www-data
+venky; sudo
+kiran; dev,www-data

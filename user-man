@@ -1,0 +1,5 @@
+# username;group1,group2
+kilaru; sudo,dev
+venkatesh; sudo,www-data
+sandy; dev,www-data
+ram; dev,sudo
